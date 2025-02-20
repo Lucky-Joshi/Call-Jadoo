@@ -22,12 +22,6 @@ To get started with Call-Jadoo, follow these steps:
 2. Install the necessary dependencies.
 3. Run the application.
 
-## Access the Website
-
-You can access the Call-Jadoo website using the following link:
-
-[Call-Jadoo](https://lucky-joshi.github.io/Call-Jadoo/)
-
 ## Contributing
 
 We welcome contributions to the Call-Jadoo project. If you would like to contribute, please follow these steps:
